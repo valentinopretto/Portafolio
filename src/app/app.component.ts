@@ -53,14 +53,14 @@ export class AppComponent {
       year: '2024',
       description: 'Sistema completo de gestión de ventas de componentes de PC. Backend desarrollado en C# .NET con arquitectura en capas, base de datos en SQL Server y frontend con JavaScript vanilla.',
       technologies: ['C#', '.NET', 'SQL Server', 'JavaScript'],
-      github: '#'
+      github: 'https://github.com/valentinopretto/TiendaPC---Gestion-de-Stock-y-Ventas'
     },
     {
       title: 'Sistema de Gestión Inmobiliaria',
       year: '2024',
       description: 'Aplicación de escritorio para gestión inmobiliaria desarrollada con C# .NET y WinForms. Manejo completo de propiedades, clientes y transacciones con SQL Server.',
       technologies: ['C#', '.NET', 'WinForms', 'SQL Server'],
-      github: '#'
+      github: 'https://github.com/valentinopretto/Gestion-Inmobiliaria'
     },
     {
       title: 'TEG - Juego de Estrategia',
